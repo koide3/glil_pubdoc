@@ -1,6 +1,6 @@
 site_name: "GLIL"
 site_author: k.koide
-repo_url: https://github.com/koide3/glil_ros
+repo_url: https://github.com/koide3/glil_pubdoc
 site_description: "GLIL: Robust 3D Localization on a Prior Environmental Map"
 
 markdown_extensions:
@@ -33,7 +33,7 @@ extra:
         - icon: material/home
           link: https://staff.aist.go.jp/k.koide/
         - icon: fontawesome/brands/github
-          link: https://github.com/koide3/glil_ros
+          link: https://github.com/koide3/glil_pubdoc
         - icon: fontawesome/brands/twitter
           link: https://twitter.com/k_koide3
 

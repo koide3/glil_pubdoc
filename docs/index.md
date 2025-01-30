@@ -2,10 +2,10 @@
 
 ## :fontawesome-solid-exclamation: Warning
 
-本ドキュメントは産総研で開発された**Closed-source 点群自己位置推定パッケージ**に関するドキュメントです． 知財開示に興味のある方は [k.koide@aist.go.jp](k.koide@aist.go.jp) までご連絡ください．  
+本ドキュメントは産総研で開発された**Closed-source 点群自己位置推定パッケージ**に関するドキュメントです． 有償知財開示に興味のある方は [k.koide@aist.go.jp](k.koide@aist.go.jp) までご連絡ください．  
 なお，ベースとなる地図生成パッケージがOSSとして公開されています : https://github.com/koide3/glim．
 
-This documentation is about a closed-source point-cloud-based localization package. The package is managed under a strict proprietary license, and **code disclosure requires a formal contract for any purposes**. Note that a mapping package, which shares the same base algorithm with this package, is available as open source : https://github.com/koide3/glim.
+This documentation is about a closed-source point-cloud-based localization package. The package is managed under a strict proprietary license, and **code disclosure requires a formal paid contract. Licensing for individuals is not allowed.** Note that a mapping package, which shares the same base algorithm with this package, is available as open source : https://github.com/koide3/glim.
 
 ## :fontawesome-solid-location-crosshairs: GLIL: Robust Localization on a 3D Prior Map
 

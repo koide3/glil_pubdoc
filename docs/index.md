@@ -24,7 +24,7 @@ This documentation is about a closed-source point-cloud-based localization packa
 
 ## :material-ubuntu: Supported environments
 
-GLIL は Ubuntu 20.04 (ROS galactic/noetic) 以降でビルド可能であるが，重点的にテストを行っている Ubuntu 22.04 (ROS humble) での利用を推奨する．また， CUDA 12.0 以降の利用を推奨する．
+GLIL は Ubuntu 22.04 / 24.04 (ROS noetic / jazzy) 以降での利用を推奨する．また， CUDA 12.6 以降の利用を推奨する．
 
 ## :fontawesome-solid-video: Video
 
